@@ -81,5 +81,3 @@ requests==2.25.1
 pymongo==3.11.3
 motor==2.3.1
 jsonschema==3.2.0
-
-expat==2.2.0
